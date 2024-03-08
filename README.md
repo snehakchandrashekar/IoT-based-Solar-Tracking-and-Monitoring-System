@@ -1,2 +1,2 @@
 # Projects
-IoT based Solar Tracking and Monitoring System
+IoT-based Solar Tracking and Monitoring System
